@@ -1,7 +1,7 @@
 # battery-notification2.0
 A simple battery notification script
 
-This is an updated script to tell you that your laptop battery needs to be plugged in.
+This is an updated script to notify you that your laptop needs to be plugged in.
 
 From [version 1.0](https://github.com/enigmatic-system/battery-notification) I've added 3 levels of notifications...
 
