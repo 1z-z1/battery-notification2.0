@@ -16,7 +16,9 @@ From [version 1.0](https://github.com/enigmatic-system/battery-notification) I'v
   - Low level notification at 20%
   
       ![lowAlert](https://i.imgur.com/7ZP2JEe.png)
+      
+This script works with notify-send and I use Dunst as the notification daemon.
 
 Next I would like to add a "Fully Charged" notification but doing so requires a 1 time notification...
 
-This script works with notify-send and I use Dunst as the notification daemon.
+I have an idea to implement it but time will tell if it is possible...
