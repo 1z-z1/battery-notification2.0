@@ -18,7 +18,9 @@ From [version 1.0](https://github.com/enigmatic-system/battery-notification) I'v
       ![lowAlert](https://i.imgur.com/7ZP2JEe.png)
 
 Next I would like to add a "Fully Charged" notification but doing so requires a 1 time notification... 
+
 I have an idea to implement it... 
 
 This script works with notify-send.
+
 I use Dunst as the notification daemon.
